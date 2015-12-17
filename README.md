@@ -4,24 +4,25 @@
  - 8th grade, multiple choice science questions
  - *Examples:*
    - When athletes begin to exercise, their heart rates and respiration rates increase.  At what level of organization does the human body coordinate these functions?
-     - at the tissue level
-     - at the organ level  
-     - **at the system level** (CORRECT)
-     - at the cellular level
+     1. at the tissue level
+     2. at the organ level  
+     3. **at the system level** (CORRECT)
+     4. at the cellular level
    - Which example describes a learned behavior in a dog?
-     - smelling the air for odors
-     - barking when disturbed
-     - **sitting on command** (CORRECT)
-     - digging in soil
+     1. smelling the air for odors
+     2. barking when disturbed
+     3. **sitting on command** (CORRECT)
+     4. digging in soil
 
 ###Outside Data:  
-*Note: no live, internet was allowed*
+*Note: no live internet connection / API calls were allowed in the model*
  - [Wikipedia](https://en.wikipedia.org)  
  - [Simple Wikipedia](https://en.wikipedia.org)  
  - [Quizlet](https://quizlet.com/21753155/8th-grade-physical-science-vocabulary-flash-cards/alphabetical)  
  - [k12.sd.us](https://sb058.k12.sd.us/vocabulary/8th_grade_science_vocabulary_ans.htm)  
  - [Vocabulary.com](http://www.vocabulary.com/lists/24280#view=notes)  
  - [HRW](http://go.hrw.com/resources/go_sc/glossary/termsa.htm)  
+ - [Wednet.edu] (http://haller.asd.wednet.edu/UserFiles/Servers/Server_3164673/File/migration/8thgradeglossary.doc)
 
 ###Technologies:  
  - Python  
