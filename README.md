@@ -1,6 +1,6 @@
 # The Allen AI Science Kaggle Challenge
 
-###Competion Data:  
+###Competition Data:  
  - 8th grade, multiple choice science questions
  - *Examples:*
    - When athletes begin to exercise, their heart rates and respiration rates increase.  At what level of organization does the human body coordinate these functions?
