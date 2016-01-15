@@ -17,7 +17,7 @@
 ###Outside Data:  
 *Note: no live internet connection / API calls were allowed in the model*
  - [Wikipedia](https://en.wikipedia.org)  
- - [Simple Wikipedia](https://en.wikipedia.org)  
+ - [Simple Wikipedia](https://simple.wikipedia.org)  
  - [Quizlet](https://quizlet.com/21753155/8th-grade-physical-science-vocabulary-flash-cards/alphabetical)  
  - [k12.sd.us](https://sb058.k12.sd.us/vocabulary/8th_grade_science_vocabulary_ans.htm)  
  - [Vocabulary.com](http://www.vocabulary.com/lists/24280#view=notes)  
