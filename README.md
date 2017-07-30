@@ -22,7 +22,7 @@
  - [k12.sd.us](https://sb058.k12.sd.us/vocabulary/8th_grade_science_vocabulary_ans.htm)  
  - [Vocabulary.com](http://www.vocabulary.com/lists/24280#view=notes)  
  - [HRW](http://go.hrw.com/resources/go_sc/glossary/termsa.htm)  
- - [Wednet.edu] (http://haller.asd.wednet.edu/UserFiles/Servers/Server_3164673/File/migration/8thgradeglossary.doc)
+ - [Wednet.edu](http://haller.asd.wednet.edu/UserFiles/Servers/Server_3164673/File/migration/8thgradeglossary.doc)
 
 ### Technologies:  
  - Python  
