@@ -1,6 +1,6 @@
 # The Allen AI Science Kaggle Challenge
 
-###Competition Data:  
+### Competition Data:  
  - 8th grade, multiple choice science questions
  - *Examples:*
    - When athletes begin to exercise, their heart rates and respiration rates increase.  At what level of organization does the human body coordinate these functions?
@@ -14,7 +14,7 @@
      3. **sitting on command** (CORRECT)
      4. digging in soil
 
-###Outside Data:  
+### Outside Data:  
 *Note: no live internet connection / API calls were allowed in the model*
  - [Wikipedia](https://en.wikipedia.org)  
  - [Simple Wikipedia](https://simple.wikipedia.org)  
@@ -24,7 +24,7 @@
  - [HRW](http://go.hrw.com/resources/go_sc/glossary/termsa.htm)  
  - [Wednet.edu] (http://haller.asd.wednet.edu/UserFiles/Servers/Server_3164673/File/migration/8thgradeglossary.doc)
 
-###Technologies:  
+### Technologies:  
  - Python  
    - BeautifulSoup    
    - Pandas  
@@ -35,7 +35,7 @@
  - Excel  
  - Powerpoint  
 
-###Methodolgy:  
+### Methodolgy:  
  1. Register for the Kaggle competition and download provided training and validation questions  
  2. Perform exploratory data analysis to develop simple / rule-based model (most common answer and all / none of the above)
  3. Combine each question in the training set with its correct answer  
